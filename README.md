@@ -6,7 +6,7 @@
 
 **Published in the IEEE Xplore Digital Library**
 
-**Conference:** IEEE International Conference on Communication, Networks and Computing Technologies (ICCNCT 2026)
+**Conference:** IEEE International Conference on Computer Networks and Inventive Communication Technologies (ICCNCT 2026)
 
 **DOI:** https://doi.org/10.1109/ICCNCT68477.2026.11590520
 
