@@ -2,8 +2,16 @@
 
 > Transformer-based multi-label emotion detection using a unified emotion dataset constructed through label harmonization across multiple benchmark datasets.
 
-**Presented at the IEEE International Conference on Communication, Networks and Computing Technologies (ICCNCT 2026).**
-**📄 Published in the IEEE Xplore Digital Library (DOI: 10.1109/ICCNCT68477.2026.11590520)** 
+## 📖 Publication
+
+**Published in the IEEE Xplore Digital Library**
+
+**Conference:** IEEE International Conference on Communication, Networks and Computing Technologies (ICCNCT 2026)
+
+**DOI:** 10.1109/ICCNCT68477.2026.11590520
+
+**IEEE Xplore:** https://ieeexplore.ieee.org/document/11590520
+
 ---
 
 # Overview
