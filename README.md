@@ -1,2 +1,1 @@
-# multi-label-emotion-detection-using-transformers-with-unified-dataset
-This project explores how AI can better understand human emotions in text. Using transformer models and a unified dataset, it recognizes multiple coexisting emotions, improving generalization and enabling more realistic emotion detection across emotionally diverse and ambiguous sentences. This research project was presented at IEEE ICCNCT 2026.
+
